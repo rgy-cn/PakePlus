@@ -9,7 +9,7 @@
     <div class="sponsorBox">
         <img
             class="wxCode"
-            src="../static/imgs/sponsor.webp"
+            src="../static/imgs/sponsor2.webp"
             alt="WeChat QR Code"
         />
     </div>
